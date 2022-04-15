@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Affortable Housing</title>
+<h2>Affortable Housing</h2>
 </head>
 <body>
 
